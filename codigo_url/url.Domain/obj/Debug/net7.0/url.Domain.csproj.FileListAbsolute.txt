@@ -1,0 +1,12 @@
+C:\Users\Mi Equipo\Desktop\TRABAJO\url\url.Domain\bin\Debug\net7.0\url.Domain.deps.json
+C:\Users\Mi Equipo\Desktop\TRABAJO\url\url.Domain\bin\Debug\net7.0\url.Domain.dll
+C:\Users\Mi Equipo\Desktop\TRABAJO\url\url.Domain\bin\Debug\net7.0\url.Domain.pdb
+C:\Users\Mi Equipo\Desktop\TRABAJO\url\url.Domain\obj\Debug\net7.0\url.Domain.csproj.AssemblyReference.cache
+C:\Users\Mi Equipo\Desktop\TRABAJO\url\url.Domain\obj\Debug\net7.0\url.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi Equipo\Desktop\TRABAJO\url\url.Domain\obj\Debug\net7.0\url.Domain.AssemblyInfoInputs.cache
+C:\Users\Mi Equipo\Desktop\TRABAJO\url\url.Domain\obj\Debug\net7.0\url.Domain.AssemblyInfo.cs
+C:\Users\Mi Equipo\Desktop\TRABAJO\url\url.Domain\obj\Debug\net7.0\url.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mi Equipo\Desktop\TRABAJO\url\url.Domain\obj\Debug\net7.0\url.Domain.dll
+C:\Users\Mi Equipo\Desktop\TRABAJO\url\url.Domain\obj\Debug\net7.0\refint\url.Domain.dll
+C:\Users\Mi Equipo\Desktop\TRABAJO\url\url.Domain\obj\Debug\net7.0\url.Domain.pdb
+C:\Users\Mi Equipo\Desktop\TRABAJO\url\url.Domain\obj\Debug\net7.0\ref\url.Domain.dll
