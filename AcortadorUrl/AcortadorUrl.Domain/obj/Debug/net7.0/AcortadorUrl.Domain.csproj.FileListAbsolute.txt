@@ -1,0 +1,30 @@
+D:\AcortadorUrl\AcortadorUrl\AcortadorUrl.Domain\bin\Debug\net7.0\AcortadorUrl.Domain.deps.json
+D:\AcortadorUrl\AcortadorUrl\AcortadorUrl.Domain\bin\Debug\net7.0\AcortadorUrl.Domain.dll
+D:\AcortadorUrl\AcortadorUrl\AcortadorUrl.Domain\bin\Debug\net7.0\AcortadorUrl.Domain.pdb
+D:\AcortadorUrl\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\AcortadorUrl.Domain.csproj.AssemblyReference.cache
+D:\AcortadorUrl\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\AcortadorUrl.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\AcortadorUrl\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\AcortadorUrl.Domain.AssemblyInfoInputs.cache
+D:\AcortadorUrl\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\AcortadorUrl.Domain.AssemblyInfo.cs
+D:\AcortadorUrl\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\AcortadorUrl.Domain.csproj.CoreCompileInputs.cache
+D:\AcortadorUrl\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\AcortadorUrl.Domain.dll
+D:\AcortadorUrl\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\refint\AcortadorUrl.Domain.dll
+D:\AcortadorUrl\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\AcortadorUrl.Domain.pdb
+D:\AcortadorUrl\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\ref\AcortadorUrl.Domain.dll
+D:\AcortadorUrl\AcortadorUrl\AcortadorUrl.Domain\bin\Debug\net7.0\AcortadorUrl.Domain.exe
+D:\AcortadorUrl\AcortadorUrl\AcortadorUrl.Domain\bin\Debug\net7.0\AcortadorUrl.Domain.runtimeconfig.json
+D:\AcortadorUrl\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\AcortadorUrl.Domain.genruntimeconfig.cache
+C:\Users\Mi Equipo\Desktop\Nueva carpeta (2)\proyecto-si685-2024-i-u1-final-barrios_chire_fernandez_floresm_u1\AcortadorUrl\AcortadorUrl.Domain\bin\Debug\net7.0\AcortadorUrl.Domain.exe
+C:\Users\Mi Equipo\Desktop\Nueva carpeta (2)\proyecto-si685-2024-i-u1-final-barrios_chire_fernandez_floresm_u1\AcortadorUrl\AcortadorUrl.Domain\bin\Debug\net7.0\AcortadorUrl.Domain.deps.json
+C:\Users\Mi Equipo\Desktop\Nueva carpeta (2)\proyecto-si685-2024-i-u1-final-barrios_chire_fernandez_floresm_u1\AcortadorUrl\AcortadorUrl.Domain\bin\Debug\net7.0\AcortadorUrl.Domain.runtimeconfig.json
+C:\Users\Mi Equipo\Desktop\Nueva carpeta (2)\proyecto-si685-2024-i-u1-final-barrios_chire_fernandez_floresm_u1\AcortadorUrl\AcortadorUrl.Domain\bin\Debug\net7.0\AcortadorUrl.Domain.dll
+C:\Users\Mi Equipo\Desktop\Nueva carpeta (2)\proyecto-si685-2024-i-u1-final-barrios_chire_fernandez_floresm_u1\AcortadorUrl\AcortadorUrl.Domain\bin\Debug\net7.0\AcortadorUrl.Domain.pdb
+C:\Users\Mi Equipo\Desktop\Nueva carpeta (2)\proyecto-si685-2024-i-u1-final-barrios_chire_fernandez_floresm_u1\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\AcortadorUrl.Domain.csproj.AssemblyReference.cache
+C:\Users\Mi Equipo\Desktop\Nueva carpeta (2)\proyecto-si685-2024-i-u1-final-barrios_chire_fernandez_floresm_u1\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\AcortadorUrl.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi Equipo\Desktop\Nueva carpeta (2)\proyecto-si685-2024-i-u1-final-barrios_chire_fernandez_floresm_u1\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\AcortadorUrl.Domain.AssemblyInfoInputs.cache
+C:\Users\Mi Equipo\Desktop\Nueva carpeta (2)\proyecto-si685-2024-i-u1-final-barrios_chire_fernandez_floresm_u1\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\AcortadorUrl.Domain.AssemblyInfo.cs
+C:\Users\Mi Equipo\Desktop\Nueva carpeta (2)\proyecto-si685-2024-i-u1-final-barrios_chire_fernandez_floresm_u1\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\AcortadorUrl.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mi Equipo\Desktop\Nueva carpeta (2)\proyecto-si685-2024-i-u1-final-barrios_chire_fernandez_floresm_u1\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\AcortadorUrl.Domain.dll
+C:\Users\Mi Equipo\Desktop\Nueva carpeta (2)\proyecto-si685-2024-i-u1-final-barrios_chire_fernandez_floresm_u1\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\refint\AcortadorUrl.Domain.dll
+C:\Users\Mi Equipo\Desktop\Nueva carpeta (2)\proyecto-si685-2024-i-u1-final-barrios_chire_fernandez_floresm_u1\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\AcortadorUrl.Domain.pdb
+C:\Users\Mi Equipo\Desktop\Nueva carpeta (2)\proyecto-si685-2024-i-u1-final-barrios_chire_fernandez_floresm_u1\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\AcortadorUrl.Domain.genruntimeconfig.cache
+C:\Users\Mi Equipo\Desktop\Nueva carpeta (2)\proyecto-si685-2024-i-u1-final-barrios_chire_fernandez_floresm_u1\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\ref\AcortadorUrl.Domain.dll
