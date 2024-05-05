@@ -1,0 +1,12 @@
+C:\AcortadorUrl\AcortadorUrl\AcortadorUrl.Domain\bin\Debug\net7.0\AcortadorUrl.Domain.deps.json
+C:\AcortadorUrl\AcortadorUrl\AcortadorUrl.Domain\bin\Debug\net7.0\AcortadorUrl.Domain.dll
+C:\AcortadorUrl\AcortadorUrl\AcortadorUrl.Domain\bin\Debug\net7.0\AcortadorUrl.Domain.pdb
+C:\AcortadorUrl\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\AcortadorUrl.Domain.csproj.AssemblyReference.cache
+C:\AcortadorUrl\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\AcortadorUrl.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\AcortadorUrl\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\AcortadorUrl.Domain.AssemblyInfoInputs.cache
+C:\AcortadorUrl\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\AcortadorUrl.Domain.AssemblyInfo.cs
+C:\AcortadorUrl\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\AcortadorUrl.Domain.csproj.CoreCompileInputs.cache
+C:\AcortadorUrl\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\AcortadorUrl.Domain.dll
+C:\AcortadorUrl\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\refint\AcortadorUrl.Domain.dll
+C:\AcortadorUrl\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\AcortadorUrl.Domain.pdb
+C:\AcortadorUrl\AcortadorUrl\AcortadorUrl.Domain\obj\Debug\net7.0\ref\AcortadorUrl.Domain.dll

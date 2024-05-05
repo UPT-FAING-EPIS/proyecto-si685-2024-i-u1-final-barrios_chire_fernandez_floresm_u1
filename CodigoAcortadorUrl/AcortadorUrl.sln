@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcortadorUrl.Domain", "AcortadorUrl.Domain\AcortadorUrl.Domain.csproj", "{89BC9B4D-E853-4886-94F2-987A97790A13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcortadorUrl.Tests", "AcortadorUrl.Tests\AcortadorUrl.Tests.csproj", "{B585E766-D41B-4262-A38B-53679EC28262}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89BC9B4D-E853-4886-94F2-987A97790A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89BC9B4D-E853-4886-94F2-987A97790A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89BC9B4D-E853-4886-94F2-987A97790A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89BC9B4D-E853-4886-94F2-987A97790A13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B585E766-D41B-4262-A38B-53679EC28262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B585E766-D41B-4262-A38B-53679EC28262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B585E766-D41B-4262-A38B-53679EC28262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B585E766-D41B-4262-A38B-53679EC28262}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
